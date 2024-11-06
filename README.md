@@ -2,6 +2,7 @@
 
 An interactive solar system visualization app built with Unity, designed to engage users in learning about planets through an augmented reality experience.
 
+##LINK TO PHASE 2 DEMO VIDEO: https://drive.google.com/file/d/1rkgSB6ui5t96r5gRvZa4WFi7a_bQZf_a/view?usp=sharing
 ## Features
 
 - **Swipe Gestures**: Use hand gestures to swipe left or right to explore different planets.
